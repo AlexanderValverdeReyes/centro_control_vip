@@ -63,8 +63,7 @@ Sistema de escritorio integral para el control operativo de terminales terrestre
 ### Pasos de ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/centro_control_vip.git](https://github.com/TU_USUARIO/centro_control_vip.git)
-   cd centro_control_vip
+   git clone https://github.com/AlexanderValverdeReyes/centro_control_vip.git
 2. Obtener las dependencias del proyecto:
    ```bash
    flutter pub get
